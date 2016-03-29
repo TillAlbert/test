@@ -142,4 +142,3 @@ An example would be to use this procedure when updating your application to a ne
 [Logger API Manual](http://github.oraopensource.com/flatdoc?repo=logger&path=docs%2FLogger+API.md)
 
 [Developer Guide](http://github.oraopensource.com/flatdoc?repo=logger&path=docs%2FDevelopment+Guide.md)
-...
