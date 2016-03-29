@@ -135,9 +135,9 @@ Information logging will vary in each organization but should fall between the r
 An example would be to use this procedure when updating your application to a new version. At the end of the update you can log that the upgrade was successful and the new version number. This way you can find exactly when all the upgrades occurred on your system.
 
 ## Links for further information and details:
-[Logger Best practices](https://github.com/OraOpenSource/Logger/blob/master/docs/Best%20Practices.md)
+[Logger-Homepage](http://www.oraopensource.com/logger)
 
-[Logger API Manual](http://github.oraopensource.com/flatdoc?repo=logger&path=docs%2FLogger+API.md)
+[Logger Best practices](https://github.com/OraOpenSource/Logger/blob/master/docs/Best%20Practices.md)
 
 [Logger API Manual](http://github.oraopensource.com/flatdoc?repo=logger&path=docs%2FLogger+API.md)
 
