@@ -7,7 +7,7 @@ published: true
 
 ## General
  
-Logger is a PL/SQL logging and debugging framework which was initially created by Tyler Muth and is currently developed by Martin D'Souza. This utillity is recommended for logging in PL/SQL.
+Logger(OraOpenSource) is a PL/SQL logging and debugging framework which was initially created by Tyler Muth and is currently developed by Martin D'Souza. This utillity is recommended for logging in PL/SQL.
 
 ## PL/SQL Procedure / Function Template
 
