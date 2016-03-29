@@ -136,7 +136,10 @@ An example would be to use this procedure when updating your application to a ne
 
 ## Links for further information and details:
 [Logger Best practices](https://github.com/OraOpenSource/Logger/blob/master/docs/Best%20Practices.md)
+
 [Logger API Manual](http://github.oraopensource.com/flatdoc?repo=logger&path=docs%2FLogger+API.md)
+
 [Logger API Manual](http://github.oraopensource.com/flatdoc?repo=logger&path=docs%2FLogger+API.md)
+
 [Developer Guide](http://github.oraopensource.com/flatdoc?repo=logger&path=docs%2FDevelopment+Guide.md)
 ...
